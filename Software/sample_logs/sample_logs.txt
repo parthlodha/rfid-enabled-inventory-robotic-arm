@@ -1,0 +1,8 @@
+Note:
+This file represents the intended inventory log format.
+Actual logging will be implemented in future versions.
+
+Timestamp        | RFID_Tag_ID   | Operation   | Location
+---------------------------------------------------------
+YYYY-MM-DD HH:MM | 0xA3F29C11    | PICK        | Rack A1
+YYYY-MM-DD HH:MM | 0xA3F29C11    | PLACE       | Counter
